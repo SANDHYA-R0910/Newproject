@@ -1,0 +1,9 @@
+INFO 2022-07-25 10:36:39,395 root  the number entered by user is 3 and 7
+INFO 2022-07-25 10:36:39,395 root  we are into function
+INFO 2022-07-25 10:36:39,395 root  we have completed a division operation
+INFO 2022-07-25 10:36:39,395 root  result of code is 0.42857142857142855
+ERROR 2022-07-25 10:40:47,916 root  division by zero
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\pythonProject2\test2.py", line 8, in divide
+    div=a/b
+ZeroDivisionError: division by zero

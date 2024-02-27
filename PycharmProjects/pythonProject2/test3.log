@@ -1,0 +1,10 @@
+CRITICAL 2022-07-25 10:54:09,856 root  this is a sitution for us
+CRITICAL 2022-07-25 10:54:49,036 root  this is a sitution for us
+ERROR 2022-07-25 10:54:49,036 root  [Errno 2] No such file or directory: 'sudh.txt'
+CRITICAL 2022-07-25 10:55:49,538 root  this is a sitution for us
+ERROR 2022-07-25 10:55:49,539 root  [Errno 2] No such file or directory: 'sudh.txt'
+ERROR 2022-07-25 10:55:49,539 root  [Errno 2] No such file or directory: 'sudh.txt'
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\pythonProject2\test3.py", line 6, in <module>
+    with open("sudh.txt",'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'sudh.txt'
